@@ -1,0 +1,148 @@
+/* Inserta tu codigo aqui */
+
+ul{
+	list-style: none;
+}
+
+.letraMenu{
+	font-size: 13px;
+	margin-left: 10%;
+}
+
+.float-left{
+	position: relative;
+	float: left;
+}
+
+.alinea1{
+	margin: 0;
+	padding: 40px 13px;
+}
+
+.ancho{
+	width: 90%;
+}
+
+.fondo{
+	background-color: black;
+}
+.fondo2{
+	background-color:#F2F2F2
+}
+.fondoPie{
+	background-color:#2E2E2E
+}
+
+.tamano{
+	width: 100px;
+	height: 100px;
+}
+
+.tamano2{
+	width: 175px;
+	height: 175px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+}
+.tamano3{
+	width: 100px;
+	height: 100px;
+	
+}
+.centro{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.right{
+	float:right;
+	margin: 10% 22.5% 0% 10%;
+}
+.col3{
+	position: relative;
+	left: 20px;
+}
+
+.menu{
+	color:white;
+}
+
+h2 {
+	text-align: left;
+	display: inline;
+}
+h4{
+	color:blue;
+	text-align: center;
+	margin-bottom: 5%;
+}
+.offset{
+	float:left;
+	margin-left: 50%;
+}
+.azul{
+	color:blue;
+}
+a{
+	text-decoration: none;
+}
+
+.espacio{
+
+	padding: 10px 5px 0px;
+}
+
+.bordeAbajo{
+	border-bottom: 1px #cec4c4 solid;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.miniLink{
+	font-size: 13px;
+	color:blue;
+	text-decoration: none;
+}
+
+.linkPie{
+	font-size: 13px;
+	color:#848484;
+	text-decoration: none;
+}
+.imgPeque{
+	width:14px;
+	height:14px;
+	margin-bottom: 5px;
+}
+
+h3{
+	color:gray;
+}
+
+.miniLetra{
+	font-size: 13px;
+}
+.gray{
+	color:gray;
+}
+
+.margen{
+	margin:10px 5px;
+}
+
+.margen2{
+	margin:0% 22.5%;
+}
+
+.letra1{
+	color:white;
+	font-size: 14px;
+}
+.espacio2{
+	padding: 0px 10px;
+}
+.espacio3{
+	padding:10px 0px 40px 0px;
+}
